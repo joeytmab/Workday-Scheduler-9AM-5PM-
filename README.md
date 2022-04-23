@@ -13,4 +13,4 @@ This repository contains an Assets folder (containing images and both CSS and JS
 
 Link: https://joeytmab.github.io/Workday-Scheduler-9AM-5PM-/
 
-![CompletedScreenshot](./assets/completed%20screenshot.jpg.png "finished product")
+![CompletedScreenshot](./assets/screenshot.jpg "finished product")
