@@ -9,4 +9,4 @@ User will be able to log on and view the current day, time, and designated timeb
 
 In addition, within each time block contains a text area, allowing user to log multiple tasks accordingly. Via Local Storage within the web client used by the user, the tasks are saved and will persist upon refreshing the page.
 
-This repository contains two folders (Assets, and Images) in addition to this README and the updated index.html file.
+This repository contains an Assets folder in addition to this README and the updated index.html file.
